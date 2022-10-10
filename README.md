@@ -3,7 +3,7 @@
 #### 介绍
 可视化数据大屏，拖拽式组件内置丰富组件和功能性api
 
-项目地址
+项目地址演示地址
 
 [viraha-design](http://designer.zhonghangsoft.com/index/project)
 
@@ -11,21 +11,14 @@
 
 密码：design_123456
 
-文档地址
+项目文档地址
 
 [可视化大屏编辑器文档手册](https://viraha-design.yuque.com/staff-eey12e/book)
 
 
 #### 软件架构
 项目采用最新vue3.0+vite3+typeScript4+pinia+antvG2+naive-ui+monaco-editor+axios作为框架基础。
-![输入图片说明](https://gitee.com/mrzjl1993/visual-drag-screen-design/raw/master/jg.png)
-
-
-#### 编辑器效果
-![输入图片说明]([iShot_2022-10-10_16.56.03.png](https://gitee.com/mrzjl1993/visual-drag-screen-design/raw/master/jg.png))
-
-#### 预览效果
-![输入图片说明](iShot_2022-10-10_16.56.44.png)
+![输入图片说明](https://cdn.nlark.com/yuque/0/2022/png/28681422/1661954453548-311d0855-e46b-459a-812a-06537040ec5e.png?x-oss-process=image%2Fresize%2Cw_1592%2Climit_0)
 
 #### 使用说明
 
