@@ -18,11 +18,11 @@
 
 #### 软件架构
 项目采用最新vue3.0+vite3+typeScript4+pinia+antvG2+naive-ui+monaco-editor+axios作为框架基础。
-![输入图片说明](jg.png)
+![输入图片说明](https://gitee.com/mrzjl1993/visual-drag-screen-design/raw/master/jg.png)
 
 
 #### 编辑器效果
-![输入图片说明](iShot_2022-10-10_16.56.03.png)
+![输入图片说明]([iShot_2022-10-10_16.56.03.png](https://gitee.com/mrzjl1993/visual-drag-screen-design/raw/master/jg.png))
 
 #### 预览效果
 ![输入图片说明](iShot_2022-10-10_16.56.44.png)
