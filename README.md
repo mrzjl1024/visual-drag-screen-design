@@ -13,7 +13,7 @@
 
 项目文档地址
 
-[可视化大屏编辑器文档手册](https://viraha-design.yuque.com/books/share/7df2019e-aa69-448d-a391-5bad6be656bd)
+[可视化大屏编辑器文档手册](https://www.yuque.com/zhoujxl/design)
 
 
 #### 软件架构
@@ -23,4 +23,4 @@
 #### 使用说明
 
 详细文档地址
-[可视化大屏编辑器文档手册](https://viraha-design.yuque.com/books/share/7df2019e-aa69-448d-a391-5bad6be656bd)
+[可视化大屏编辑器文档手册](https://www.yuque.com/zhoujxl/design)
