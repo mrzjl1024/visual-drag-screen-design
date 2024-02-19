@@ -8,7 +8,7 @@
 
 项目地址演示地址
 
-[viraha-design](http://designer.zhonghangsoft.com/index/project)
+[viraha-design](http://121.199.167.219:9090)
 
 账号：design
 
